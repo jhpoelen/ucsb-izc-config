@@ -1,5 +1,5 @@
 # ucsb-izc-config
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/ucsb-izc-config/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/ucsb-izc-config)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/seltmann/elton-config-for-gbif-bees/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/seltmann/elton-config-for-gbif-bees)
 
 Prototype for re-usable globi config see https://github.com/Big-Bee-Network/bif/issues/11 .
 
