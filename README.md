@@ -1,5 +1,7 @@
 # ucsb-izc-config
-prototype for re-usable globi config see https://github.com/Big-Bee-Network/bif/issues/11
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/ucsb-izc-config/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/ucsb-izc-config)
+
+Prototype for re-usable globi config see https://github.com/Big-Bee-Network/bif/issues/11 .
 
 This prototype was created using:
 
