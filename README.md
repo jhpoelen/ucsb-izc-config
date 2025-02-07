@@ -29,7 +29,7 @@ Example usage:
 preston track "https://api.gbif.org/v1/dataset/d6097f75-f99e-4c2a-b8a5-b0fc213ecbd0"\
  | elton stream\
  --data-dir data\
- --config hash://sha256/02682fdd62a3e985dc06236662299f00ec5453c4e6f707d02efa93628f927649\
+ --config hash://sha256/d3c2a1e6d3d021ce740ab428fccecfba237780bfcf794ec79bf7f9c0d7371a05\
  --remote https://softwareheritage.org\
  | head -2\
  | mlr --itsvlite --oxtab cat
