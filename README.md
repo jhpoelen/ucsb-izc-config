@@ -7,14 +7,14 @@ This prototype was created using:
 
 ```
 cat interaction_types_mapping_custom.csv\
- | preston track 
- ```
+ | preston track
+```
  
  Then add hash to globi.json file such as hash://sha256/f2b391961c36c4321fa6697e9a8ecdae8d2e86e928f03cf48b5fff1be7fbe96d
- 
+
+```
 cat globi.json\
  | preston track
-
 ```
 Use resulting hash in the configuration: hash://sha256/d3c2a1e6d3d021ce740ab428fccecfba237780bfcf794ec79bf7f9c0d7371a05
 
